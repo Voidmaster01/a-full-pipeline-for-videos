@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File "POWERSHELL FILES\PipelineManager.ps1"
